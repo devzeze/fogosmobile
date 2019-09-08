@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "5d72253abd0470224c8b4567"
+      },
+      "id": "2019140053907",
+      "coords": true,
+      "dateTime": {
+        "sec": 1567760940,
+        "usec": 0
+      },
+      "date": "06-09-2019",
+      "hour": "10:09",
+      "location": "Santar\u00e9m, Almeirim, Almeirim - Almeirim#quinta_alorna",
+      "aerial": 0,
+      "terrain": 4,
+      "man": 17,
+      "district": "Santar\u00e9m",
+      "concelho": "Almeirim",
+      "dico": "1403",
+      "freguesia": "Almeirim",
+      "lat": 39.190746,
+      "lng": -8.624229,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "statusCode": 6,
+      "statusColor": "CE773C",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Almeirim#quinta_alorna",
+      "active": true,
+      "sadoId": "2019140053907",
+      "sharepointId": 3904809,
+      "extra": "",
+      "created": {
+        "sec": 1567761722,
+        "usec": 376000
+      },
+      "updated": {
+        "sec": 1567761901,
+        "usec": 555000
+      },
+      "statusOld": "Chegada ao TO"
+    },
+    {
+      "_id": {
+        "$id": "5d72253ebd0470224c8b456b"
+      },
+      "id": "2019130150835",
+      "coords": true,
+      "dateTime": {
+        "sec": 1567760880,
+        "usec": 0
+      },
+      "date": "06-09-2019",
+      "hour": "10:08",
+      "location": "Porto, Santo Tirso, Rebord\u00f5es - Rebordoes",
+      "aerial": 1,
+      "terrain": 0,
+      "man": 6,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "dico": "1314",
+      "freguesia": "Rebord\u00f5es",
+      "lat": 41.344411,
+      "lng": -8.425159,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "statusCode": 4,
+      "statusColor": "FF9900",
+      "status": "Despacho de 1\u00ba Alerta",
+      "important": false,
+      "localidade": "Rebordoes",
+      "active": true,
+      "sadoId": "2019130150835",
+      "sharepointId": 3904808,
+      "extra": "",
+      "created": {
+        "sec": 1567761726,
+        "usec": 508000
+      },
+      "updated": {
+        "sec": 1567761901,
+        "usec": 558000
+      },
+      "statusOld": "Despacho de 1\u00ba Alerta"
+    }
+  ]
+}
